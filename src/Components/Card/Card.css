@@ -1,0 +1,9 @@
+.Card{
+    border : solid white 1px;
+    margin: 20px;
+
+}
+
+.Card-img{
+    min-height: 200px;
+}
